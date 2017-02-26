@@ -1,7 +1,7 @@
 import init from './init'
-import models from './models/queries'
+import days from './days/queries'
 
 export {
   init,
-  models
+  days
 }

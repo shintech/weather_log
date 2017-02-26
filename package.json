@@ -1,6 +1,6 @@
 {
   "name": "weather_log",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "build/server.js",
   "scripts": {
@@ -58,7 +58,8 @@
       "beforeEach",
       "afterEach",
       "before",
-      "after"
+      "after",
+      "Backbone"
     ]
   },
   "engines": {
